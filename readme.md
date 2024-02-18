@@ -1,0 +1,1 @@
+[Create a WordPress site from an archive file using an EC2 instance](creatingWordPressInstance.md)
